@@ -1,0 +1,6 @@
+framework module MobVideoSDK {
+  umbrella header "MobVideoSDK.h"
+
+  export *
+  module * { export * }
+}
